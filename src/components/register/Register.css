@@ -1,0 +1,33 @@
+.formStyle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #BEC4A7;
+    border-radius: 4%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding-top: 30px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+label{
+    
+    padding: 0.25rem 0;
+}
+
+
+.bgimg1{
+    background-image: url('../images/gym1.jpg');
+    background-size: cover;
+}

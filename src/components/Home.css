@@ -1,0 +1,29 @@
+.bgimg{
+    background-image: url('../components/images/gym1.jpg');
+    background-size:cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    
+}
+.image{
+    background-image: url('../components/images/program2.png');
+}
+/* .bgimg1{
+    background-image: url('../components/images/logogym1.webp');
+    background-size:cover;
+} */
+
+div p{
+    color: black;
+}
+
+
+.join{
+    margin-top: 300px;
+    margin-left: 580px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
